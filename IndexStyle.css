@@ -82,3 +82,49 @@ div h1 {
     line-height: 1.5;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+.content-section {
+    width: 80%;
+    margin: 40px auto;
+    font-family: system-ui, sans-serif;
+    opacity: 1;              /* تأكد ما فيه شفافية */
+}
+
+/* list */
+.services-list {
+    margin-bottom: 40px;
+    font-size: 20px;
+    color: #14532d;
+}
+
+.services-list li {
+    margin: 12px 0;
+}
+
+/* table */
+.service-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.service-table th,
+.service-table td {
+    border: 1px solid #333;
+    padding: 14px 16px;
+}
+
+/* الهيدر */
+.service-table th {
+    background: #568259;
+    color: #ffffff;
+}
+
+/* الصفوف */
+.service-table td {
+    background: #ffffff;   /* أبيض واضح */
+    color: #14532d;        /* أخضر غامق واضح */
+}
+
+
