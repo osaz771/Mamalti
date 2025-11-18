@@ -87,10 +87,9 @@ div h1 {
     width: 80%;
     margin: 40px auto;
     font-family: system-ui, sans-serif;
-    opacity: 1;              /* تأكد ما فيه شفافية */
+    opacity: 1;              
 }
 
-/* list */
 .services-list {
     margin-bottom: 40px;
     font-size: 20px;
@@ -101,7 +100,6 @@ div h1 {
     margin: 12px 0;
 }
 
-/* table */
 .service-table {
     width: 100%;
     border-collapse: collapse;
@@ -115,16 +113,14 @@ div h1 {
     padding: 14px 16px;
 }
 
-/* الهيدر */
 .service-table th {
     background: #568259;
     color: #ffffff;
 }
 
-/* الصفوف */
 .service-table td {
-    background: #ffffff;   /* أبيض واضح */
-    color: #14532d;        /* أخضر غامق واضح */
+    background: #ffffff;   
+    color: #14532d;        
 }
 
 

@@ -63,14 +63,14 @@ body {
 }
 
 .signup{
-margin-bottom: 15px;
+  margin-bottom: 15px;
   background-color: rgb(255, 255, 255);
   font-size: 20px;
-  width :720px;
-  height: 900px;
+  width : 700px;
+  height: 1000px;
   border-radius: 20px;
-  margin-left: 935px;
-  margin-top :  200px;
+  margin-left: 900px;
+  margin-top :  100px;
 
 
 }
